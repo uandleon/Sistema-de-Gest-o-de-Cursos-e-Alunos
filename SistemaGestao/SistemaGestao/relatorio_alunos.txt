@@ -1,0 +1,13 @@
+Relatório de Alunos por Curso
+====================================
+
+Nome: Muily
+CPF: 12345678901
+Curso: asdads
+Status: Ativo
+------------------------------------
+Nome: Gustavo
+CPF: 09876543211
+Curso: asdads
+Status: Ativo
+------------------------------------
